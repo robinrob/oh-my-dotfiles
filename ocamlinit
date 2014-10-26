@@ -1,5 +1,0 @@
-#use "topfind"
-#camlp4o
-#thread
-#require "core.top"
-#require "core.syntax"

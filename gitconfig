@@ -1,8 +1,0 @@
-[merge]
-	tool = diffmerge
-[user]
-	name = Robin Smith
-	email = robin@mrrobinsmith.com
-	company = Robin Smith Software
-[push]
-	default = matching

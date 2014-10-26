@@ -4,3 +4,6 @@
 [submodule "rake"]
   path = rake
   url = git@bitbucket.org:robinrob/rakefile.git
+[submodule "dotfiles-base"]
+	path = dotfiles-base
+	url = git@bitbucket.org:robinrob/dotfiles-base.git
