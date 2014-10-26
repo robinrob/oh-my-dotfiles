@@ -1,0 +1,9 @@
+ack
+install
+opam
+macvim --custom-icons --override-system-vim --with-lua --with-luajit
+zsh
+macvim
+macvim --custom-icons --override-system-vim --with-lua --with-luajit
+macvim
+macvim --custom-icons --override-system-vim --with-lua --with-luajit

@@ -1,0 +1,9 @@
+set imap_user = 'robin@mrrobinsmith.com'
+set imap_pass = '6kfbhak2'
+set spoolfile = imaps://imap.gmail.com:993/INBOX
+set folder = imaps://imap.gmail.com:993
+set postponed=”imaps://imap.gmail.com/[Gmail]/Drafts”
+set message_cachedir=”~/.mutt/cache/bodies”
+set certificate_file=~/.mutt/certificates
+
+set folder_format="%2C %t %N %8s %d %f"
