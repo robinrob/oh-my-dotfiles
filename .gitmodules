@@ -1,9 +1,9 @@
-[submodule "projects/oh-my-dotfiles"]
-  path = projects/oh-my-dotfiles
-  url = git@bitbucket.org:robinrob/oh-my-dotfiles.git
 [submodule "rake"]
   path = rake
   url = git@bitbucket.org:robinrob/rakefile.git
 [submodule "dotfiles-base"]
 	path = dotfiles-base
 	url = git@bitbucket.org:robinrob/dotfiles-base.git
+[submodule "framework"]
+	path = framework
+	url = git@github.com:robbyrussell/oh-my-zsh.git
