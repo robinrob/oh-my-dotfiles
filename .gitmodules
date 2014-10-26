@@ -4,3 +4,6 @@
 [submodule "yadr"]
   path = yadr
   url = https://github.com/skwp/dotfiles
+[submodule "projects/oh-my-dotfiles"]
+	path = projects/oh-my-dotfiles
+	url = git@bitbucket.org:robinrob/oh-my-dotfiles.git
