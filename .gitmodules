@@ -5,5 +5,5 @@
   path = framework
   url = git@github.com:robbyrussell/oh-my-zsh.git
 [submodule "rakelib"]
-  path = rakelib	
+  path = rakelib
   url = git@github.com:robinrob/rakelib.git
